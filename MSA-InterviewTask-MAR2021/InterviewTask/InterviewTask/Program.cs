@@ -207,21 +207,5 @@ namespace Datetimetest
             return groupedPayments;
         }
 
-        public static testc()
-        {
-            delegate bool xxda(string msg, int len);
-
-            xxda aaa = (string msg, int len) => msg.Length > 1en;
-
-            int[] n = new int[100];
-            for(int i = 0; i < n.Length; i++)
-            {
-                n[i] = i + 1;
-            }
-            xxda lam(string msg, int len) => msg.Length > len;
-
-            Console.WriteLine("lambda {0}", )
-        }
-
     }
 }
