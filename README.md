@@ -1,5 +1,6 @@
 # MSA
-BRIEF
+
+<p style="text-align: center;"><h2>BRIEF</h2></p>
  
 <img src="https://github.com/comkwang/MSA/blob/main/BRIEF.jpg" alt="BRIEF">
 Jeremiah’s bank now offers a service that provides a tab separated output of each week’s bank statement automatically. Jeremiah would like to do some rudimentary investigations on his weekly spending and has asked you to do this in C# since he’s a real language purist and gets weird about these sorts of things.
@@ -14,19 +15,19 @@ A sample structure and output for the program can be found on the next page.
 Read the input data into your program from the output file and map the data into a class of your design. 
 Reading ahead and seeing what other tasks you’ll need to perform may help influence your class design. 
 Jeremiah will be running these operations once weekly, by loading the files in.
-Identify the method that does this followed by any instructions to run this with a comment, 
+Identify the method that does this followed by any instructions to run this with a comment,<br>
 //TASK 1- <<Instructions>>
 
 <H2>TASK 2</H2>
 Jeremiah thinks that he may have been charged twice for coffee on the 29th of October. 
 Write a method that can identify and print to the console any potential duplicates within the dataset. 
-Identify the method that does this followed by any instructions to run this with a comment, 
+Identify the method that does this followed by any instructions to run this with a comment, <br>
 //TASK 2 - <<Instructions>>
 
 <H2>TASK 3</H2>
 Jeremiah wants to know where he’s spending all his money. 
 Output a ranked list of the combined total of every payee that Jeremiah has been spending money on from most expenditure to least. 
-Identify the method that does this followed
+Identify the method that does this followed<br>
 //TASK 3 - <<Instructions>>
 
 
