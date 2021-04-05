@@ -1,7 +1,7 @@
 # MSA
 BRIEF
  
-<img src="BRIEF.JPG" alt="BRIEF">
+<img src="https://github.com/comkwang/MSA/blob/main/BRIEF.jpg" alt="BRIEF">
 Jeremiah’s bank now offers a service that provides a tab separated output of each week’s bank statement automatically. Jeremiah would like to do some rudimentary investigations on his weekly spending and has asked you to do this in C# since he’s a real language purist and gets weird about these sorts of things.
 He’s provided the output in the file: qbank-export-1-11-2020.txt
 You can use any C# compiler and packages you wish to use for these task, but any nuget imports that Jeremiah has to install should be clearly indicated.
@@ -31,9 +31,10 @@ Identify the method that does this followed
 
 
 <H2>SAMPLE OUTPUT</H2>
-
+<img src="https://github.com/comkwang/MSA/blob/main/SAMPLEOUT.jpg" alt="BRIEF">
 Note: You don’t have to display your results the same way! Display them however you deem best.
 
 <H2>SAMPLE STRUCTURE</H2>
+<img src="https://github.com/comkwang/MSA/blob/main/SAMPLESTRUCTURE.jpg" alt="BRIEF">
 To get you started, you can start with this structure with the structure in the attached solution 
 if you wish – or you can find a version of the program’s main structure here: https://pastebin.com/K7LEDMch
