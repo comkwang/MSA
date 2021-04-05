@@ -1,7 +1,7 @@
 # MSA
 BRIEF
  
-
+<img src="BRIEF.JPG" alt="BRIEF">
 Jeremiah’s bank now offers a service that provides a tab separated output of each week’s bank statement automatically. Jeremiah would like to do some rudimentary investigations on his weekly spending and has asked you to do this in C# since he’s a real language purist and gets weird about these sorts of things.
 He’s provided the output in the file: qbank-export-1-11-2020.txt
 You can use any C# compiler and packages you wish to use for these task, but any nuget imports that Jeremiah has to install should be clearly indicated.
