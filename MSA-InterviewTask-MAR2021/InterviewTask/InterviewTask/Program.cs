@@ -206,6 +206,10 @@ namespace Datetimetest
 
             return groupedPayments;
         }
+        public void test()
+        {
+            Console.WriteLine("test");
+        }
 
     }
 }
